@@ -21,5 +21,6 @@ To play the game:
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
-You can play the game [here](https://cantgitnosf.github.io/github-games/)
+You can play the game [here](https://cantgitnosf.github.io/reviewing-a-pull-request)
+
 This fun open source game was cloned from: [jakesgordon/javascript-tetris](https://github.com/jakesgordon/javascript-tetris)
